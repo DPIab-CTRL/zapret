@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="/DPIab-CTRL/zapret/releases/latest/tag/zapret"><b>📦 Скачать последнюю версию</b></a>
+  <a href="https://github.com/DPIab-CTRL/zapret/releases/tag/zapret"><b>📦 Скачать последнюю версию</b></a>
   •
   <a href="/DPIab-CTRL/zapret"><b>🧩 Исходный код</b></a>
 </p>
