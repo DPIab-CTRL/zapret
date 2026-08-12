@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="/DPIab-CTRL/zapret/releases/latest"><b>📦 Скачать последнюю версию</b></a>
+  <a href="/DPIab-CTRL/zapret/releases/latest/tag/zapret"><b>📦 Скачать последнюю версию</b></a>
   •
   <a href="/DPIab-CTRL/zapret"><b>🧩 Исходный код</b></a>
 </p>
@@ -40,7 +40,7 @@
 
 Готовые сборки публикуются в разделе:
 
-### **[➡️ GitHub Releases](/DPIab-CTRL/zapret/releases/latest)**
+### **[➡️ GitHub Releases](/DPIab-CTRL/zapret/releases/latest/tag/zapret)**
 
 Для обычного использования рекомендуется скачивать именно готовый архив из **Releases**, а не `Source code.zip`, который GitHub создаёт автоматически.
 
