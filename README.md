@@ -40,7 +40,7 @@
 
 Готовые сборки публикуются в разделе:
 
-### **[➡️ GitHub Releases](/DPIab-CTRL/zapret/releases/latest/tag/zapret)**
+### **[➡️ GitHub Releases](https://github.com/DPIab-CTRL/zapret/releases/tag/zapret)**
 
 Для обычного использования рекомендуется скачивать именно готовый архив из **Releases**, а не `Source code.zip`, который GitHub создаёт автоматически.
 
