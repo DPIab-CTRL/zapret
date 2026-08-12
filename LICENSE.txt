@@ -1,0 +1,49 @@
+DPI LAB — License
+
+Unless otherwise stated, original source code and documentation authored for
+DPI LAB are licensed under the MIT License below.
+
+Third-party files included or redistributed with this repository remain under
+their respective upstream licenses and copyright notices. This file does not
+relicense third-party components.
+
+MIT License
+
+Copyright (c) 2026 DPI LAB contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+Third-party components
+======================
+
+This repository may include or redistribute third-party software. Those files
+remain subject to their original licenses and copyright notices.
+
+Notably:
+
+- zapret by bol-van is distributed under the MIT License.
+- Components derived from Flowseal/zapret-discord-youtube retain the applicable
+  upstream notices and licenses.
+- WinDivert by basil00 is dual-licensed under the GNU Lesser General Public
+  License version 3 (LGPL-3.0) or the GNU General Public License version 2
+  (GPL-2.0), at the user's choice.
+
+When redistributing the project, keep all applicable upstream copyright and
+license notices with the corresponding third-party components.

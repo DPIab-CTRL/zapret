@@ -1,0 +1,63 @@
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk~
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.orig
+
+# Logs and generated diagnostics
+*.log
+logs/
+utils/test results/*.txt
+test-results/
+test_results_*.txt
+
+# Crash / debug output
+*.dmp
+*.stackdump
+
+# Release archives
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+
+# Local build/output directories
+build/
+dist/
+out/
+tmp/
+temp/
+
+# Python helpers, if used locally
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PowerShell local state
+*.clixml
+
+# OS metadata
+.DS_Store
+
+# Keep project binaries that are intentionally versioned.
+# Do NOT add global rules for *.exe, *.dll or *.sys here because
+# DPI LAB intentionally contains WinDivert/winws components.
